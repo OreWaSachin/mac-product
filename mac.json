@@ -1,0 +1,103 @@
+
+{
+
+
+    "data":[
+       
+    
+        
+        {
+        "id": "1",
+        "image":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_mba__fchj615oz0yi_medium_2x.png",
+        "name":"MacBook Air",
+        "title":"M1 chip",
+        "price":"999",
+        "camera":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_m1__dsskrswqk7wy_large_2x.png",
+        "cam_det":"Apple M1 chip",
+        "fiv":"8-Core",
+        "fiv_de":"CPU",
+        "battery":"7-core",
+        "bat":"GPU",
+        "face":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_unified_memory__emykppauav2a_large_2x.png",
+        "face_de":"Up to 16GB unfined memory",
+        "sos":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large_2x.png",
+        "soe_de":"Up to 18 hours battery life",
+        "cam":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large_2x.png",
+        "cam-de":"720p FaceTime HD camera",
+        "speaker":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_mic__bkm7awuvc5qu_large_2x.png",
+        "spea":"Three-mic array Stereo speakers",
+        "tou":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touchid__fanxgkqe1xei_large_2x.png",
+        "tou-de":"Touch ID"
+    },
+    {
+        "id": "2",
+        "image":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_mbam2__bdesjk99hf4i_medium_2x.png",
+        "name":"MacBook Air",
+        "title":"M2 Chip",
+        "price":"799",
+        "camera":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_m2__c5vv0ufcdyc2_large_2x.png",
+        "cam_det":"Apple M2 chip",
+        "fiv":"8-Core",
+        "fiv_de":"CPU",
+        "battery":"10-core",
+        "bat":"GPU",
+        "face":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_unified_memory__emykppauav2a_large_2x.png",
+        "face_de":"Up to 24GB unfined memory",
+        "sos":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large_2x.png",
+        "soe_de":"Up to 18 hours battery life",
+        "cam":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large_2x.png",
+        "cam-de":"1080p FaceTime HD camera",
+        "speaker":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_mic__bkm7awuvc5qu_large_2x.png",
+        "spea":"Three-mic array Four-speaker sound system with Spatial Audio",
+        "tou":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touchid__fanxgkqe1xei_large_2x.png",
+        "tou-de":"Touch ID"
+    },
+    {
+        "id": "3",
+        "image":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_mbp13__euj5z15300om_medium_2x.png",
+        "name":"MacBook Pro 13",
+        "title":"",
+        "price":"599",
+        "camera":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_m2__c5vv0ufcdyc2_large_2x.png",
+        "cam_det":"Apple M2 chip",
+        "fiv":"8-Core",
+        "fiv_de":"CPU",
+        "battery":"10-core",
+        "bat":"GPU",
+        "face":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_unified_memory__emykppauav2a_large_2x.png",
+        "face_de":"Up to 24GB unfined memory",
+        "sos":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large_2x.png",
+        "soe_de":"Up to 20 hours battery life",
+        "cam":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large_2x.png",
+        "cam-de":"720p FaceTime HD camera",
+        "speaker":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_mic__bkm7awuvc5qu_large_2x.png",
+        "spea":"Studio-quality three-mic array Stereo speakers with Spatial Audio",
+        "tou":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touch_id_touch_bar__e6rwp5pfboae_large_2x.png",
+        "tou-de":"Touch ID"
+    },
+    {
+        "id": "4",
+        "image":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_mbp14_and_16__f2dhysusb5im_medium_2x.png",
+        "name":"MacBook Pro 14 and 16",
+        "title":"",
+        "price":"429",
+        "camera":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_m2_and_pro__etnd8ga0x10m_large_2x.png",
+        "cam_det":"Apple M2 Pro or Apple M2 Max chip",
+        "fiv":"12-Core",
+        "fiv_de":"CPU",
+        "battery":"38-core",
+        "bat":"GPU",
+        "face":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_unified_memory__emykppauav2a_large_2x.png",
+        "face_de":"Up to 96GB unfined memory",
+        "sos":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large_2x.png",
+        "soe_de":"Up to 22 hours battery life",
+        "cam":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large_2x.png",
+        "cam-de":"1080p FaceTime HD camera",
+        "speaker":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_mic__bkm7awuvc5qu_large_2x.png",
+        "spea":"Studio-quality three-mic array Six-speakers sounds system with Spatial Audio",
+        "tou":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touchid__fanxgkqe1xei_large_2x.png",
+        "tou-de":"Touch ID"
+    }
+        
+    ]
+    }
