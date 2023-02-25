@@ -23,11 +23,11 @@
         "sos":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large_2x.png",
         "soe_de":"Up to 18 hours battery life",
         "cam":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large_2x.png",
-        "cam-de":"720p FaceTime HD camera",
+        "cam_de":"720p FaceTime HD camera",
         "speaker":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_mic__bkm7awuvc5qu_large_2x.png",
         "spea":"Three-mic array Stereo speakers",
         "tou":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touchid__fanxgkqe1xei_large_2x.png",
-        "tou-de":"Touch ID"
+        "tou_de":"Touch ID"
     },
     {
         "id": "2",
@@ -46,11 +46,11 @@
         "sos":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large_2x.png",
         "soe_de":"Up to 18 hours battery life",
         "cam":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large_2x.png",
-        "cam-de":"1080p FaceTime HD camera",
+        "cam_de":"1080p FaceTime HD camera",
         "speaker":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_mic__bkm7awuvc5qu_large_2x.png",
         "spea":"Three-mic array Four-speaker sound system with Spatial Audio",
         "tou":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touchid__fanxgkqe1xei_large_2x.png",
-        "tou-de":"Touch ID"
+        "tou_de":"Touch ID"
     },
     {
         "id": "3",
@@ -69,11 +69,11 @@
         "sos":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large_2x.png",
         "soe_de":"Up to 20 hours battery life",
         "cam":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large_2x.png",
-        "cam-de":"720p FaceTime HD camera",
+        "cam_de":"720p FaceTime HD camera",
         "speaker":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_mic__bkm7awuvc5qu_large_2x.png",
         "spea":"Studio-quality three-mic array Stereo speakers with Spatial Audio",
         "tou":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touch_id_touch_bar__e6rwp5pfboae_large_2x.png",
-        "tou-de":"Touch ID"
+        "tou_de":"Touch ID"
     },
     {
         "id": "4",
@@ -92,11 +92,11 @@
         "sos":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_battery__fk0ughiyc3am_large_2x.png",
         "soe_de":"Up to 22 hours battery life",
         "cam":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_camera__dlxow9r3leie_large_2x.png",
-        "cam-de":"1080p FaceTime HD camera",
+        "cam_de":"1080p FaceTime HD camera",
         "speaker":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_mic__bkm7awuvc5qu_large_2x.png",
         "spea":"Studio-quality three-mic array Six-speakers sounds system with Spatial Audio",
         "tou":"https://www.apple.com/v/mac/home/bs/images/overview/compare/compare_icon_touchid__fanxgkqe1xei_large_2x.png",
-        "tou-de":"Touch ID"
+        "tou_de":"Touch ID"
     }
         
     ]
